@@ -1,0 +1,52 @@
+Produtora: Naughty Dog
+Email: ndi-dog@naughtydog.com
+Pais: EUA
+
+Produtora: Square Enix
+Email: support@squarenix.com
+Pais: Japan
+
+Produtora: Rockstar
+Email: support@rockstargames.com
+Pais: EUA
+
+Produtora: Ubisoft
+Email: AccountSupport@ubi
+Pais: França
+
+Produtora: Bandai Namco
+Email: support@bandainamco.com
+Pais: Japão
+
+Produtora: Electronic Arts
+Email: support@electronicarts.com
+Pais: EUA
+
+Produtora: Konami
+Email: opsupport@konami.com
+Pais: Japão
+
+Produtora: Bethesda
+Email: bethesda-support@game-legends.com 
+Pais: EUA
+
+Produtora: Blizzard
+Email: support@blizzard.com 
+Pais: EUA
+
+Produtora: Playground Games
+Email: support@playground.com 
+Pais: EUA
+
+Produtora: Nintendo
+Email: support@nintendo.com 
+Pais: Japão
+
+Produtora: Capcom
+Email: support@pcapcom.com 
+Pais: Japão
+
+Produtora: Sony
+Email: support@sony.com 
+Pais: Japão
+

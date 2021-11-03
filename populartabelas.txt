@@ -1,0 +1,220 @@
+Gênero: 
+
+FPS
+Mundo aberto
+Aventura
+Ação
+RPG
+Corrida
+Terror
+
+Jogos 
+
+The Last Of Us
+Descrição: "Jogo de Aventura em Terceira Pessoa num mundo pós apocalíptico"
+Gênero: Aventura
+Preço: 159,90
+Multiplayer: 1
+Produtora: Naughty Dog
+PA: Mature
+Engine: Unreal Engine
+-----
+
+Tomb Raider(Remaster)
+Descrição: "Reboot do primeiro Tomb Raider"
+Gênero: Aventura
+Preço: 144.31
+Multiplayer: 1
+Produtora: Square Enix
+PA: Mature
+Engine: Foundation Engine
+-----
+GTA V
+Descrição: "Controle criminosos em um mundo aberto"
+Gênero: Ação
+Preço: 113.91
+Multiplayer: 1
+Produtora: Rockstar Games
+PA: Mature
+Engine: Rockstar Advanced Game Engine
+-----
+Far Cry 4
+Descrição: "Controle Ajay Ghale na luta contra Pagan Min"
+Gênero: FPS
+Preço: 64.90
+Multiplayer: 1
+Produtora: Ubisoft
+PA: Mature
+Engine: Dunia 2
+-----
+Dark Souls 2
+Descrição: "Lutas PVP no reino de Drangleic"
+Gênero: RPG
+Preço: 195.00
+Multiplayer: 1
+Produtora: Bandai Namco 
+PA: Mature
+Engine: Havok 
+-----
+Titanfall
+Descrição: "Lutas PVP entre robõs gigantes"
+Gênero: FPS
+Preço: 89.00
+Multiplayer: 1
+Produtora: Eletronic Arts
+PA: Mature
+Engine: Source
+-----
+Metal Gear Solid V
+Descrição: "Solid Snake lutando com os soviéticos"
+Gênero: Ação
+Preço: 129.00
+Multiplayer: 1
+Produtora: Konami
+PA: Mature
+Engine: Fox Engine
+-----
+The Witcher 3 
+Descrição: "Ajude o mago Geralt a encontrar uma mulher perdida"
+Gênero: RPG
+Preço: 79.99
+Multiplayer: 0
+Produtora: CD Projekt Red
+PA: Mature
+Engine: REDengine 3
+-----
+Fallout 4
+Descrição: "Controle um residente de um abrigo anti-radiação em sua jornada pelo mundo"
+Gênero: RPG
+Preço: 59.90
+Multiplayer: 0
+Produtora: Bethesda
+PA: Mature
+Engine: Creation Engine
+-----
+Overwatch
+Descrição: "Jogue como uma força internacional tentando restaurar a paz mundial"
+Gênero: FPS
+Preço: 69.00
+Multiplayer: 1
+Produtora: Blizzard
+PA: Teen
+Engine: Prometheus
+-----
+Dark Souls 3
+Descrição: "Controle um morto-vivo em sua jornada por Lothric"
+Gênero: RPG
+Preço: 159.90
+Multiplayer: 1
+Produtora: Bandai Namco
+PA: Mature
+Engine: Unreal Engine
+----- 
+Forza Horizon 3
+Descrição: "Compita com outros jogadores em corridas no Horizon Festival"
+Gênero: Corrida
+Preço: 249.00
+Multiplayer: 1
+Produtora: Playground Games 
+PA: Everyone
+Engine: ForzaTech 
+-----
+The Legend Of Zelda: Breath of the Wild
+Descrição: "Controle Link na tentativa de parar o mal em Hyrule"
+Gênero: Aventura
+Preço: 299.00
+Multiplayer: 0
+Produtora: Nintendo
+PA: Everyone
+Engine: Unity
+-----
+Resident Evil 7
+Descrição: "Controle um homem procurando uma pessoa perdida em uma mansão"
+Gênero: Terror
+Preço: 69.99
+Multiplayer: 0 
+Produtora: Capcom
+PA: Mature
+Engine: RE Engine
+-----
+Horizon Zero Down
+Descrição: "Ajude o caçador Aloy a sobreviver num mundo pós apocalíptico"
+Gênero: RPG
+Preço: 200.00
+Multiplayer: 0 
+Produtora: Sony
+PA: Teen
+Engine: Decima 
+-----
+Red Dead Redemption 2
+Descrição: "Controle o caubói Artur Morgan no velho oeste americano em 1899"
+Gênero: Ação
+Preço: 239.00
+Multiplayer: 1
+Produtora: Rockstar
+PA: Mature
+Engine: Rockstar Advanced Game Engine
+-----
+God of War (remaster)
+Descrição: "Batalhe contra deuses junto de Kratos e seu filho"
+Gênero: Ação
+Preço: 199.90
+Multiplayer : 0
+Produtora: Sony
+PA: Mature
+Engine: Santa Monica
+-----
+Assasin's Creed Odyssey
+Descrição: "Jogue com os mercenários assasinos Alexas e Kassandra em busca de vingança"
+Gênero: Ação
+Preço: 179.99
+Multiplayer: 0
+Produtora: Ubisoft
+PA: Mature
+Engine: AnvilNext 2.0
+-----
+Apex Legends
+Descrição: "Combates entre esquadrões numa ilha grande"
+Gênero: Ação
+Preço: 0.00
+Multiplayer: 1
+Produtora: Eletronic Arts
+PA: Teen
+Engine: Source
+-----
+Devil May Cry 5
+Descrição: "Ajude Dante, Nero e V em sua luta para salvar o mundo de demõnios"
+Gênero: Ação
+Preço: 89.99
+Multiplayer: 1
+Produtora: Capcom
+PA: Mature
+Engine: RE Engine
+-----
+The Last of Us II
+Descrição: "Continue ajudando Joel e sua filha Ellie a sobreviver em um mundo pós apocaliptico"
+Gênero: Aventura
+Preço: 170.91
+Multiplayer: 0
+Produtora: Naughty Dog
+PA: Mature
+Engine: Unreal Engine
+-----
+DOOM Eternal 
+Descrição: "Controle Doom Slayer em suas batalhas para chegar á capital do Inferno"
+Gênero: FPS
+Preço: 199.00
+Multiplayer: 1
+Produtora: Bethesda
+PA: Mature
+Engine: Id Tech 7
+-----
+Cyberpunk 2077
+Descrição: "Controle o mercenário V em sua jornada por Night City"
+Gênero: RPG
+Preço: 199.90
+Multiplayer: 0
+Produtora: CD Projekt Red
+PA: Mature 
+Engine: REDengine 4
+----- 
